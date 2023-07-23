@@ -1,0 +1,17 @@
+.product{
+    padding: 2rem;
+    border: 1px solid mediumseagreen;
+    margin: 1rem;
+    border-radius: 5px;
+}
+.error{
+    color: red;
+    font-weight: bolder;
+}
+.price{
+    color: mediumseagreen;
+    font-style: oblique;
+}
+.btn{
+    margin-left: 0.5rem;
+}

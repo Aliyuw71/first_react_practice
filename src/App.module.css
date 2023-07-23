@@ -1,0 +1,6 @@
+.error{
+    color: blueviolet;
+}
+.container{
+    display: flex;
+}
